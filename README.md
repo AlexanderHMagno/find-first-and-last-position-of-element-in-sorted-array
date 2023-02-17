@@ -1,4 +1,4 @@
-#Find first and last position of element in sortedarray
+# Find first and last position of element in sortedarray
 
 Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
 
